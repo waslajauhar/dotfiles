@@ -1,0 +1,8 @@
+{
+  "modules-left": ["battery", "clock"],
+  "modules-center": ["hyprland/workspaces", "hyprland/window"],
+  "modules-right": ["cpu", "memory", "network"],
+  "output-order": ["eDP-1", "HDMI-A-1"],
+  "separator": "|",
+  "style": "styles.css"
+}
