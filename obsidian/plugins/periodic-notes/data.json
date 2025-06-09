@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD-MM-YYYY",
+    "folder": "10. Daily Notes",
+    "template": "6. Template/Diary Journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "all/College Math/study things/Straight Lines/Lecture-7 (Angle between Lines & Finding circumcentre and Orthocentre).md",
+    "folder": "",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "dc0fd60d08fd1e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "26070c3243299f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f422ed9bc7cf5127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Daily Notes/08-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "08-06-2025"
+            }
+          },
+          {
+            "id": "3b1f2dc2bd8bc7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Daily Notes/09-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "09-06-2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "388e038662b48b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "98dbc20398a6f6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c7cdb49f71cfc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5971dd9c7067a1a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f447ef181ea8d381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "c62e0d2b46c2db58",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade720dbf0f11777",
+        "type": "tabs",
+        "dimension": 32.84365162644281,
+        "children": [
+          {
+            "id": "e45b05790b843731",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "96a88108fab82347",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "topics/neuro_electronics/8 bit computer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8 bit computer"
+            }
+          },
+          {
+            "id": "21d8e1d43419090e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "topics/neuro_electronics/8 bit computer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8 bit computer"
+            }
+          },
+          {
+            "id": "6cf9ac10f5a0e570",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a4ad0c1ee871b2eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "eab0a165b2de182d",
+        "type": "tabs",
+        "dimension": 30.4302203567681,
+        "children": [
+          {
+            "id": "ec1bde158e5f7950",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "7. Main Notes/waybar.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5480219651973731,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of waybar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2683f193ea560c59",
+        "type": "tabs",
+        "dimension": 36.72612801678909,
+        "children": [
+          {
+            "id": "320fd0a04219a54c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-kanban:Create new board": false,
+      "notion-like-tables:Create loom": false,
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3b1f2dc2bd8bc7c4",
+  "lastOpenFiles": [
+    "10. Daily Notes/09-06-2025.md",
+    "7. Main Notes/waybar.md",
+    "7. Main Notes/Untitled.md",
+    "10. Daily Notes/08-06-2025.md",
+    "5. Indexes/main index.md",
+    "4. Tags/Pure Mathematics.md",
+    "4. Tags/Mathematics.md",
+    "1. Canvas/personal.canvas",
+    "10. Daily Notes/05-06-2025.md",
+    "topics/next 3y (25-28).canvas",
+    "topics/design/self 3d animation (25-28).md",
+    "7. Main Notes/self bmath in 3y (25-28).md",
+    "topics/pure_mathematics/Halting problem.md",
+    "topics/pure_mathematics/conjecture.md",
+    "topics/computer_science/self CS in 3y (25-28).md",
+    "10. Daily Notes/04-06-2025.md",
+    "topics/personal/NPC.md",
+    "topics/college_math/Next 3y (2025 to 2028).md",
+    "topics/neuro_electronics/8 bit computer.md",
+    "topics/college_math/learning-plan.md",
+    "topics/personal/It never gone!.md",
+    "topics/pure_mathematics/math thinking.md",
+    "7. Main Notes/Lean and Coq.md",
+    "topics/personal/Libraries.md",
+    "topics/design/3D Game Asset Creation Assignment.pdf",
+    "topics/computer_science/documentaion.md for telegram-bot.md",
+    "topics/computer_science/From javascript to react.md",
+    "topics/college_math/wasla institute of mathematics.md",
+    "10. Daily Notes/03-06-2025.md",
+    "1. Canvas/pure math.canvas",
+    "topics/neuro_electronics/Pasted image 20240404143022.png",
+    "topics/neuro_electronics/Pasted image 20230926181820.png",
+    "1. Canvas/Electronics.canvas",
+    "9. Individuals/Individuals.canvas",
+    "1. Canvas/Dress and body fitness.canvas",
+    "1. Canvas/Development.canvas",
+    "1. Canvas/design.canvas",
+    "1. Canvas/All.canvas",
+    "topics/college_math/images/1st Semester Academic Year 2024-2025.png",
+    "topics/design/Images/my robot art.png",
+    "topics/calisthenics",
+    "topics/nuclear_engineering/images/nuclear eng.png",
+    "topics/nuclear_engineering/images",
+    "topics/design/Images/Smapit Media Internship 20240814081035.png",
+    "topics/design/Images/Smapit Media Internship 20240814080951.png",
+    "topics/design/Images/Smapit Media Internship 20240814081025.png",
+    "topics/design/Images/Smapit Media Internship 20240814081012.png",
+    "topics/design/Images/Smapit Media Internship 20240814081004.png",
+    "1. Canvas/Writing.main.canvas",
+    "topics/college_math/images",
+    "topics/philosophy/images",
+    "topics/personal/canvas",
+    "topics/computer_science/images",
+    "topics/design/Images",
+    "Untitled.loom",
+    "all/new/loom.loom"
+  ]
+}
