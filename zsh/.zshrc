@@ -109,7 +109,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
+source ~/.zshrc_aliases
 
 # BEGIN opam configuration
 # This is useful if you're using opam as it adds:
@@ -119,3 +119,4 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -r '/home/wasla/.opam/opam-init/init.zsh' ]] || source '/home/wasla/.opam/opam-init/init.zsh' > /dev/null 2> /dev/null
 # END opam configuration
 export PATH="$HOME/.local/bin:$PATH"
+eval "$(zoxide init zsh)"

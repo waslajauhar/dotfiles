@@ -4,37 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "26070c3243299f8a",
+        "id": "782d33296681861e",
         "type": "tabs",
         "children": [
           {
-            "id": "f422ed9bc7cf5127",
+            "id": "bfd987bac10314dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/08-06-2025.md",
+                "file": "topics/Next 3y (2025 to 2028).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08-06-2025"
+              "title": "Next 3y (2025 to 2028)"
             }
           },
           {
-            "id": "3b1f2dc2bd8bc7c4",
+            "id": "5eb654122a7a7604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/09-06-2025.md",
+                "file": "topics/college_math/WIM (wasla institute of mathematics).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09-06-2025"
+              "title": "WIM (wasla institute of mathematics)"
+            }
+          },
+          {
+            "id": "576c10c7b7e010b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/philosophy/Peace vs Comfort.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Peace vs Comfort"
             }
           }
         ],
@@ -80,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line: mathematics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 222.5
   },
   "right": {
     "id": "c62e0d2b46c2db58",
@@ -113,12 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "9. Individuals/Persons List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Persons List"
             }
           },
           {
@@ -127,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/neuro_electronics/8 bit computer.md",
+                "file": "9. Individuals/Persons List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8 bit computer"
+              "title": "Backlinks for Persons List"
             }
           },
           {
@@ -197,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. Main Notes/waybar.md",
+                "file": "topics/design/self 3d animation (25-28).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,12 +236,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5480219651973731,
+                  "scale": 0.4296780914342513,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of waybar"
+              "title": "Graph of self 3d animation (25-28)"
             }
           }
         ]
@@ -249,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
+    "width": 261.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -267,47 +283,50 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b1f2dc2bd8bc7c4",
+  "active": "5eb654122a7a7604",
   "lastOpenFiles": [
-    "10. Daily Notes/09-06-2025.md",
-    "7. Main Notes/waybar.md",
-    "7. Main Notes/Untitled.md",
-    "10. Daily Notes/08-06-2025.md",
-    "5. Indexes/main index.md",
-    "4. Tags/Pure Mathematics.md",
-    "4. Tags/Mathematics.md",
-    "1. Canvas/personal.canvas",
-    "10. Daily Notes/05-06-2025.md",
-    "topics/next 3y (25-28).canvas",
-    "topics/design/self 3d animation (25-28).md",
-    "7. Main Notes/self bmath in 3y (25-28).md",
-    "topics/pure_mathematics/Halting problem.md",
-    "topics/pure_mathematics/conjecture.md",
-    "topics/computer_science/self CS in 3y (25-28).md",
-    "10. Daily Notes/04-06-2025.md",
-    "topics/personal/NPC.md",
-    "topics/college_math/Next 3y (2025 to 2028).md",
-    "topics/neuro_electronics/8 bit computer.md",
+    "topics/college_math/My CV.md",
+    "topics/philosophy/Peace vs Comfort.md",
+    "topics/Next 3y (2025 to 2028).md",
+    "topics/college_math/WIM (wasla institute of mathematics).md",
     "topics/college_math/learning-plan.md",
-    "topics/personal/It never gone!.md",
-    "topics/pure_mathematics/math thinking.md",
-    "7. Main Notes/Lean and Coq.md",
-    "topics/personal/Libraries.md",
+    "1. Canvas/note taking system.canvas",
+    "10. Daily Notes/29-06-2025.md",
+    "10. Daily Notes/25-06-2025.md",
+    "10. Daily Notes/23-06-2025.md",
+    "7. Main Notes/On the Nonexistence of Intusions.md",
+    "10. Daily Notes/21-06-2025.md",
+    "topics/design/self 3d animation (25-28).md",
+    "Pasted image 20250620160027.png",
+    "10. Daily Notes/20-06-2025.md",
+    "10. Daily Notes/05-06-2025.md",
+    "4. Tags/CS Developing.md",
+    "6. Template/Weekly Note Template.md",
+    "6. Template/Main Note Template.md",
+    "6. Template/Individuals.md",
+    "6. Template/Friend's Data Template.md",
+    "6. Template/Diary Journal Template.md",
+    "4. Tags/Person.md",
+    "4. Tags/Personal.md",
+    "4. Tags/Philosophy.md",
+    "4. Tags/Pure Mathematics.md",
+    "4. Tags/WIM (Wasla Institute of Mathematics).md",
+    "Untitled.md",
+    "10. Daily Notes/17-06-2025.md",
+    "topics/college_math/images/1st Semester Academic Year 2024-2025.png",
+    "topics/college_math/images/1st Semester Exams Academic Year 2024-2025.png",
     "topics/design/3D Game Asset Creation Assignment.pdf",
-    "topics/computer_science/documentaion.md for telegram-bot.md",
-    "topics/computer_science/From javascript to react.md",
-    "topics/college_math/wasla institute of mathematics.md",
-    "10. Daily Notes/03-06-2025.md",
-    "1. Canvas/pure math.canvas",
+    "topics/next 3y (25-28).canvas",
     "topics/neuro_electronics/Pasted image 20240404143022.png",
     "topics/neuro_electronics/Pasted image 20230926181820.png",
-    "1. Canvas/Electronics.canvas",
     "9. Individuals/Individuals.canvas",
+    "1. Canvas/WIM.canvas",
+    "1. Canvas/Writing.main.canvas",
+    "1. Canvas/personal.canvas",
+    "1. Canvas/pure math.canvas",
+    "1. Canvas/Electronics.canvas",
     "1. Canvas/Dress and body fitness.canvas",
     "1. Canvas/Development.canvas",
-    "1. Canvas/design.canvas",
-    "1. Canvas/All.canvas",
-    "topics/college_math/images/1st Semester Academic Year 2024-2025.png",
     "topics/design/Images/my robot art.png",
     "topics/calisthenics",
     "topics/nuclear_engineering/images/nuclear eng.png",
@@ -315,9 +334,6 @@
     "topics/design/Images/Smapit Media Internship 20240814081035.png",
     "topics/design/Images/Smapit Media Internship 20240814080951.png",
     "topics/design/Images/Smapit Media Internship 20240814081025.png",
-    "topics/design/Images/Smapit Media Internship 20240814081012.png",
-    "topics/design/Images/Smapit Media Internship 20240814081004.png",
-    "1. Canvas/Writing.main.canvas",
     "topics/college_math/images",
     "topics/philosophy/images",
     "topics/personal/canvas",
