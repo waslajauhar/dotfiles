@@ -1,8 +1,7 @@
- 
-window {
+ window {
   background-color: rgba(150, 200, 255, 0.12); /* translucent white */
   border: none;
-  color: #ffffff;
+  color: #000000;
   font-family: "Fira Sans", "Font Awesome 6 Free", sans-serif;
   font-size: 13px;
 }
@@ -20,14 +19,25 @@ window {
   margin: 2px 4px;
   border-radius: 6px;
   background-color: rgba(255, 255, 255, 0.08); /* subtle white tint for each module */
-  color: #000000;}
+  color: #000000;
+}
 
-idle_inhibitor {
-  color: #ffffff;
+/* idle_inhibitor */
+/* Base styling (optional) */
+#idle_inhibitor {
+  padding: 0 8px;
+}
+/* Activated state: A in green */
+#idle_inhibitor.activated {
+  background-color: rgba(200, 100, 100, 0.5);
+}
+/* Deactivated state: D in red */
+#idle_inhibitor.deactivated {
+  background-color: rgba(100, 149, 237, 0.5);
 }
 
 #pulseaudio {
-  background-color: rgba(100, 149, 237, 0.2); /* Cornflower blue background */
+  background-color: rgba(100, 149, 237, 0.5); /* Cornflower blue background */
   color: #ffffff; /* White text */
   border-radius: 6px;
   padding: 0 10px;
@@ -36,12 +46,12 @@ idle_inhibitor {
 
 /* Optional: muted state for pulseaudio */
 #pulseaudio.muted {
-  background-color: rgba(200, 100, 100, 0.2);
+  background-color: rgba(200, 100, 100, 0.5);
   color: #ffffff;
 }
 
 #clock {
-  background-color: rgba(96, 125, 139, 0.2); /* SteelBlue */
+  background-color: rgba(96, 125, 139, 0.5); /* SteelBlue */
   color: #ffffff;
   border-radius: 6px;
   padding: 0 10px;
@@ -53,13 +63,13 @@ idle_inhibitor {
   padding: 0 8px;
   margin: 2px 4px;
   border-radius: 6px;
-  background-color: rgba(230, 230, 250, 0.15); /* soft blue */
+  background-color: rgba(230, 230, 250, 0.2); /* soft blue */
   color: #ffffff;
 }
 
 
 #battery {
-  background-color: rgba(144, 238, 144, 0.2); /* LightGreen */
+  background-color: rgba(144, 238, 144, 0.5); /* LightGreen */
   color: #ffffff;
   border-radius: 6px;
   padding: 0 10px;
@@ -67,12 +77,12 @@ idle_inhibitor {
 }
 
 #battery.warning {
-  background-color: rgba(255, 165, 0, 0.3); /* Orange */
+  background-color: rgba(255, 165, 0, 0.5); /* Orange */
   color: #ffffff;
 }
 
 #battery.critical {
-  background-color: rgba(255, 69, 58, 0.3); /* Red */
+  background-color: rgba(255, 69, 58, 0.5); /* Red */
   color: #ffffff;
 }
 
@@ -87,7 +97,7 @@ idle_inhibitor {
 
 #workspaces button.active {
   background-color: rgba(255, 255, 255, 0.2);
-  color: #000;
+  color: #000000;
   font-weight: bold;
 }
 

@@ -41,7 +41,7 @@
     "format-plugged": "Plugged: {capacity}%"
   },
   "clock": {
-    "format": "{:%d/%m/%Y %H:%M}",
+    "format": "{:%d-%B-%Y %H:%M}",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {
       "format": {
@@ -54,7 +54,7 @@
     "format": "Volume: {volume}%",
     "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
     "on-click-right": "pavucontrol",
-    "format-muted": "muted {volume}%"
+    "format-muted": "Muted {volume}%"
   },
   "tray": {
     "icon-size": 20,
