@@ -6,6 +6,10 @@
   font-size: 13px;
 }
 
+.modules-center {
+   color: #ffffff;
+ }
+
 /* Spacing and appearance for all modules */
 #workspaces,
 #idle_inhibitor,
@@ -34,6 +38,7 @@
 /* Deactivated state: D in red */
 #idle_inhibitor.deactivated {
   background-color: rgba(100, 149, 237, 0.5);
+  color: #ffffff;
 }
 
 #pulseaudio {
@@ -67,7 +72,6 @@
   color: #ffffff;
 }
 
-
 #battery {
   background-color: rgba(144, 238, 144, 0.5); /* LightGreen */
   color: #ffffff;
@@ -86,6 +90,15 @@
   color: #ffffff;
 }
 
+@keyframes blink {
+  100% { background-color: red; color: white; }
+  50% { background-color: white; color: red; }
+}
+
+#battery.critical {
+    animation: blink 1s infinite;
+ }
+
 /* Workspaces - active/inactive style */
 #workspaces button {
   padding: 0 8px;
@@ -97,7 +110,7 @@
 
 #workspaces button.active {
   background-color: rgba(255, 255, 255, 0.2);
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
 }
 
